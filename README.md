@@ -6,17 +6,29 @@ SDR-Widget is an interface based on the Atmel AT32UC3A3 microcontroller that pro
 sdr-widget:
 
 1    High quality audio using the USB Audio Class standard (UAC1 and UAC2)
+
 2   Capture and Playback at 48/96/192khz 24 bit under uac2 for OSX, Linux and Windows
+
 3    (For Windows, a uac2 ASIO driver is available)
+
 4    PTT control
+
 5    Si570 control
+
 6    SWR metering
+
 7    PWR metering
+
 8    PA Heatsink Temperature metering
+
 9    PA bias adjustment
+
 10    LCD display
+
 11    Rotary Encoder Input
+
 12    Filter bank switching control
+
 13    CW paddle 
 
 The interface also aims to be used as a general platform for future experimentation with SDR peripherals.
