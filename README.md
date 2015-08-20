@@ -1,5 +1,6 @@
 # sdr-widget
 Automatically exported from code.google.com/p/sdr-widget
+
 SDR-Widget is an interface based on the Atmel AT32UC3A3 microcontroller that provides the following functionality to SDR circuits such as the SoftRock. A branch of the project called audio-widget provides a USB-I2S module and various Analog Boards (AB) for audiophile USB-DAC playback.
 
 sdr-widget:
